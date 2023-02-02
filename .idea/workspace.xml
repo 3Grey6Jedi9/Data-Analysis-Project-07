@@ -51,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1675106199015</updated>
       <workItem from="1675106200181" duration="925000" />
-      <workItem from="1675279285356" duration="6626000" />
+      <workItem from="1675279285356" duration="8741000" />
     </task>
     <servers />
   </component>
@@ -68,5 +68,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/danielmulatarancon/Desktop/Documents/HACKING TIME/*DATA ANALYSIS /Unit 07/Project 07/Data-Analysis-Project-07/Musical Analysis.ipynb</url>
+          <line>57</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
