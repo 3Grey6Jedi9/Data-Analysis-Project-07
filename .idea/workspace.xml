@@ -51,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1675106199015</updated>
       <workItem from="1675106200181" duration="925000" />
-      <workItem from="1675279285356" duration="22902000" />
+      <workItem from="1675279285356" duration="27814000" />
     </task>
     <servers />
   </component>
@@ -79,12 +79,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook:///Users/danielmulatarancon/Desktop/Documents/HACKING TIME/*DATA ANALYSIS /Unit 07/Project 07/Data-Analysis-Project-07/Musical Analysis.ipynb</url>
-          <line>112</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>notebook:///Users/danielmulatarancon/Desktop/Documents/HACKING TIME/*DATA ANALYSIS /Unit 07/Project 07/Data-Analysis-Project-07/Musical Analysis.ipynb</url>
-          <line>144</line>
+          <line>146</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
